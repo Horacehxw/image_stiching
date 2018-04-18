@@ -1,0 +1,5 @@
+cut-1.jpg     1  3881
+cut-2.jpg   914  3843
+cut-3.jpg   794  3340
+cut-4.jpg  1472  3568
+cut-5.jpg  1175  3082

@@ -1,0 +1,17 @@
+Please write a program, in whatever language, to stitch the images (use the link below to download) into a whole storage rack, so that the storage rack appears to be frontal, i.e. the shelves should become horizontal and the bottles should be vertical. You may use any toolbox and algorithm you can find. You may also modify them or design new algorithm by yourself. Show me the stitching result and a report on how you achieve it and its running time. If you could not solve it completely and perfectly, it is OK to show me the partial results. I will evaluate it
+
+I don’t expect that you can finish it in one week, even in one month. So please just take your time to read, think, and implement. You may communicate with me if you have any uncertainties. But do not ask me for answers. I don’t have one. You may also communicate with nearby people.
+
+Reference books:
+
+《计算机视觉——一种现代方法（第二版）》http://product.china-pub.com/6265819
+
+or its first version (also has a Chinese edition).
+
+Link to download data:
+
+链接：https://pan.baidu.com/s/1qv6WmkWxclLRqsGd-_aCoQ
+
+密码：7qre
+
+ 
